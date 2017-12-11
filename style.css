@@ -1,0 +1,179 @@
+body {margin:0; padding-bottom: 50px;}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #fafafa;
+    border-bottom: 1px solid rgba(0,0,0,.0975);
+    top: 0;
+    width: 100%;
+    margin-top:-4.4%;
+}
+
+li {
+    float: left;
+    margin-left: 13.5%;
+}
+
+#invoer{
+  margin-left: 50px;
+  margin-top: 6px;
+  width: 250px;
+  height: 30px;
+  border: 1px solid #dbdbdb;
+  border-radius: 3px;
+  font-size: 14px;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+@font-face {
+font-family: 'Billabong';
+font-style: normal;
+font-weight: normal;
+src: local('Billabong'), url('Billabong.woff') format('woff');
+}
+
+#Logo{
+font-family: 'Billabong';
+font-size: 50px;
+margin-top: -4.2%;
+padding: 0;
+text-align: center;
+}
+
+#loginl{
+font-family: 'Billabong';
+font-size: 35px;
+margin-top: 10px;
+margin-bottom: -50px;
+text-align: center;
+}
+
+#login{
+  border: 0;
+  box-shadow: 0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15);
+  width: 23%;
+  margin: 0 auto;
+}
+
+header{
+  background-color: #fafafa;
+}
+
+#name{
+  padding-left: 52px;
+  padding-top: 10px;
+}
+
+#lname{
+  width: 30px;
+  margin-top: 32px;
+  margin-left: 490px;
+  border-radius: 15px;
+  border:0;
+    box-shadow: 0 0 1px 0 rgba(0,0,0,0.2),0 1px 10px 0 rgba(0,0,0,0.05);
+}
+
+
+  #comment{
+    margin-top: -25.65px;
+    margin-left: 125px;
+    font-family:Arial,sans-serif;
+    font-weight: normal;
+    width: 60%;
+    margin-bottom: 5px;
+  }
+
+#media, h2{
+    font-weight: normal;
+    font-size: 12.5px;
+}
+
+#picture{
+  margin-top: 10px;
+  width: 550px;
+}
+
+#heading{
+  font-family: sans-serif;
+  font-weight: lighter;
+  font-size: 15px;
+  text-align: center;
+  padding-bottom: 20px;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+/*#uploadb{
+  color: #fff;
+  background: #3897f0;
+  border-color: #3897f0;
+  border-radius: 3px;
+  border-style: solid;
+  border-width: 1px;
+  font-weight: 600;
+  width: 125px;
+  height: 28px;
+  margin-left: 50px;
+} */
+
+input[type="file"] {
+  margin-left: 51px;
+}
+
+#up{
+  font-family: sans-serif;
+  font-weight: normal;
+  font-size: 14px;
+  display: inline;
+  margin-left: 10px;
+}
+
+#heading h1 {
+  color: black;
+}
+
+#heading span {
+  color: #3897f0;
+}
+
+#button{
+  margin-left: 76px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  color: #fff;
+  background: #3897f0;
+  border-color: #3897f0;
+  border-radius: 3px;
+  border-style: solid;
+  border-width: 1px;
+  font-weight: 600;
+  width: 200px;
+  height: 28px;
+}
+
+
+#media{
+  border:0;
+  width: 550px;
+  margin-top: -47px;
+  margin-left: 31.5%;
+  border-radius: 3px;
+  font-family: sans-serif;
+  font-weight: normal;
+  font-size: 7px;
+  box-shadow: 0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15);
+}
